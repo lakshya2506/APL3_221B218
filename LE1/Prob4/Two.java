@@ -1,3 +1,5 @@
-class Two extends One {
-     
+class Two extends One{
+    Two(){
+        super(4);
+    }
 }
